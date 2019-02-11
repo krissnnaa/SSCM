@@ -23,7 +23,7 @@ Python 3.5 or greater
 
 * **Krishna Prasad Neupane** - [Krishna](https://git.cs.rit.edu/kpn3569/CuckooVPP)
 
-* **YI Wang**
+* **Yi Wang**
 
 
 
